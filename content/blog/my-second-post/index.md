@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: Polski Grzebień 2200 m n.p.m.
 date: "2019-08-27T23:46:37.121Z"
 ---

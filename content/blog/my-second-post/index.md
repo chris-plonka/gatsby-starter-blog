@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: Polski Grzebień 2200 m n.p.m.
 date: "2019-08-27T23:46:37.121Z"
 ---
@@ -68,5 +67,3 @@ Poniżej fotorelacja z wyprawy.
 ![29](./DSC_0053.JPG)
 
 ![30](./DSC_0054.JPG)
-
->>>>>>> 0af0f8b1b1dca7d70dc735545f10aa7e97ca8c93

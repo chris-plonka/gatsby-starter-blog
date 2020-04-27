@@ -1,0 +1,55 @@
+---
+title: Korona Tatr.
+date: "2019-08-31T23:46:37.121Z"
+---
+
+![1](./Korona.jpg)
+
+Poniżej umieściłem Wielką Koronę Tatr (Każdy z tych 14 wierzchołków spełnia kryterium wybitności i wznosi się na wysokość ponad 8000 stóp.)
+Niestety żaden z wierzchołków nie znajduje się na terenie Polski. Tylko na trzy wierzchołki: Rysy, Krywań i Sławkowski Szczyt prowadzą szlaki turystyczne.
+<b>
+<ul>
+<li>Gerlach – 2655 m n.p.m., czyli 8743 stóp</li>
+<li>Łomnica – 2634 m n.p.m., czyli 8642 stóp</li>
+<li>Lodowy Szczyt – 2627 m n.p.m, czyli 8619 stóp</li>
+<li>Durny Szczyt – 2623 m n.p.m, czyli 8606 stóp</li>
+<li>Wysoka – 2560 m n.p.m, czyli 8399 stóp</li>
+<li>Kieżmarski Szczyt – 2558 m n.p.m, czyli 8392 stóp</li>
+<li>Kończysta – 2538 m n.p.m, czyli 8327 stóp</li>
+<li>Baranie Rogi – 2526 m n.p.m, czyli 8287 stóp</li>
+<li>Rysy – 2503 m n.p.m, czyli 8212 stóp</li>
+<li>Krywań – 2494 m n.p.m, czyli 8182 stóp</li>
+<li>Staroleśny Szczyt – 2476 m n.p.m, czyli 8123 stóp</li>
+<li>Ganek – 2462 m n.p.m., czyli 8077 stóp</li>
+<li>Sławkowski Szczyt – 2452 m n.p.m., czyli 8045 stóp</li>
+<li>Pośrednia Grań – 2441 m n.p.m. czyli 8009 stóp</li>
+</ul>
+</b>
+</p>
+
+
+Oto lista szczytów Korony Tatr (oczywiście Turystycznej na którą prowadzą szlaki . W sumie 18 wierzchołków).<br />
+<span class="blue"><b>Kolorem niebieskim oznaczyłem zdobyte szczyty.</b></span>
+
+<ul>
+<li>Rysy 2503</li>
+<li>Krywań 2495</li>
+<li>Sławkowski Szczyt 2452</li>
+<li>Świnica 2301</li>
+<li class='blue'><b>Kozi Wierch 2291</b></li>
+<li>Bystra 2248</li>
+<li>Jagnięcy Szczyt 2230</li>
+<li>Raczkowa Czuba 2194</li>
+<li>Baraniec 2185</li>
+<li>Banówka 2178</li>
+<li>Starorobociański Wierch 2176</li>
+<li>Pachoł 2166</li>
+<li>Rohacz Płaczliwy 2125</li>
+<li>Krzesanica 2123</li>
+<li>Rohacz Ostry 2088</li>
+<li>Smrek 2072</li>
+<li class='blue'><b>Wołowiec 2063<b/></li>
+<li>Salatyński Wierch 2050</li>
+</ul>
+</b>
+</p>

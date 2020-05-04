@@ -5,8 +5,11 @@ date: "2019-09-01T22:40:32.169Z"
 
 ![Zbojeckie-okno](./zbojeckie_okno_i_ja.jpg)
 
-Udało się przejść zamierzoną trasę. Rezerwat Madohora piękny, dobrze utrzymany choć czasami na szlaku powalone drzewa. Trochę rozczarowało mnie słabe oznakowanie szczytu Łamanej Skały na które nie prowadzi szlak, a tylko przechodzi bokiem.
-Chatka studencka pod Potrójną ciekawa, z pomysłami typowo studenckimi. Powyżej skała Zbójeckie Okno. Poniżej fotorelacja z wyprawy.
+<p class="justify")>Udało się przejść zamierzoną trasę. Rezerwat Madohora piękny, dobrze utrzymany choć czasami na szlaku powalone drzewa. Trochę rozczarowało mnie słabe oznakowanie szczytu Łamanej Skały na które nie prowadzi szlak, a tylko przechodzi bokiem.
+Chatka studencka pod Potrójną ciekawa, z pomysłami typowo studenckimi. Powyżej skała Zbójeckie Okno.</p>
+
+<p>Poniżej fotorelacja z wyprawy.</p>
+
 
 ![1](./DSC_0134.JPG)
 

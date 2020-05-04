@@ -5,8 +5,8 @@ date: "2019-08-31T23:46:37.121Z"
 
 ![1](./Korona.jpg)
 
-Poniżej umieściłem Wielką Koronę Tatr (Każdy z tych 14 wierzchołków spełnia kryterium wybitności i wznosi się na wysokość ponad 8000 stóp.)
-Niestety żaden z wierzchołków nie znajduje się na terenie Polski. Tylko na trzy wierzchołki: Rysy, Krywań i Sławkowski Szczyt prowadzą szlaki turystyczne.
+<p class="justify")>Poniżej umieściłem Wielką Koronę Tatr (Każdy z tych 14 wierzchołków spełnia kryterium wybitności i wznosi się na wysokość ponad 8000 stóp.)
+Niestety żaden z wierzchołków nie znajduje się na terenie Polski. Tylko na trzy wierzchołki: Rysy, Krywań i Sławkowski Szczyt prowadzą szlaki turystyczne.</p>
 <b>
 <ul>
 <li>Gerlach – 2655 m n.p.m., czyli 8743 stóp</li>

@@ -5,7 +5,7 @@ date: "2019-08-31T23:48:37.121Z"
 
 ![1](./Babia-Gora.jpg)
 
-<p class="justify")>Jak na mieszkańca Beskidu Małego przystało postanowiłem zaprezentować Koronę Beskidów czyli 9 najwższych szczytów poszczególnych pasm Beskidów.</p?>
+<p class="justify">Jak na mieszkańca Beskidu Małego przystało postanowiłem zaprezentować Koronę Beskidów czyli 9 najwższych szczytów poszczególnych pasm Beskidów.</p?>
 <span class="blue"><b>Kolorem niebieskim oznaczyłem zdobyte szczyty.</b></span>
 <b>
 <ul>

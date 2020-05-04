@@ -3,7 +3,7 @@ title: Koncert Organowy.
 date: "2019-09-07T22:40:32.169Z"
 ---
 
-<p class="justify")>
+<p class="justify">
 Muzyka to kolejna moja pasja. Lubię różne gatunki muzyczne, w szczególności jazz i muzykę klasyczną. Dziś wybrałem się na koncert muzyki organowej
 oraz skrzypcowej do Kościoła pw. Św. Jana Chrzciciela w Bielsku - Białej Komorowicach.
 </p>

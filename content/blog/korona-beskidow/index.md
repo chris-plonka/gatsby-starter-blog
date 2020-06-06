@@ -15,7 +15,7 @@ date: "2019-08-31T23:48:37.121Z"
 <li class='blue'>Lubomir 904 Beskid Makowski</li>
 <li class='blue'>Mogielica 1171 Beskid Wyspowy</li>
 <li>Radziejowa 1262 Beskid Sądecki</li>
-<li>Skrzyczne 1257 Beskid Śląski</li>
+<li class='blue'>Skrzyczne 1257 Beskid Śląski</li>
 <li>Tarnica 1346 Bieszczady</li>
 <li class='blue'>Turbacz 1310 Gorce</li>
 </ul>

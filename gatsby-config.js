@@ -4,7 +4,7 @@ module.exports = {
     author: {
       name: `Krzysztof Płonka`,
       summary: `who lives and works in Pisarzowice building useful things.`,
-      mail: `info@krzysztofplonka.pl`,
+      mail: `info@krzysztofplonka.pl`
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://blog.krzysztofplonka.pl/`,

@@ -4,7 +4,7 @@ date: "2021-04-26T23:48:37.121Z"
 ---
 
 
-<p class="justify">Czas mna Kornę Gór Polski, czyli 28 najwyższych szczytów pasm górskich na teranie kraju.</p?>
+<p class="justify">Czas na Koronę Gór Polski, czyli 28 najwyższych szczytów pasm górskich na teranie naszego kraju.</p?>
 <span class="blue"><b>Kolorem niebieskim oznaczyłem zdobyte szczyty.</b></span>
 <b>
 <ul>

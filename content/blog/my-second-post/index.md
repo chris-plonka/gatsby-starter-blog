@@ -3,8 +3,8 @@ title: Polski Grzebień 2200 m n.p.m.
 date: "2019-08-27T23:46:37.121Z"
 ---
 
-
-Dnia 10.08.2019 wyruszyliśmy na wędrówkę z PTT Bielsko - Biała na Polski Grzebień w Wysokich Tatrach  Słowackich. Trasa do Łysej Polany przez Śląski Dom wynosi 30km.
+<p  class="justify">
+Dnia 10.08.2019 wyruszyliśmy na wędrówkę z PTT Bielsko - Biała na Polski Grzebień w Wysokich Tatrach  Słowackich. Trasa ze Starego Smokovca do Łysej Polany przez Śląski Dom wynosi 30km.
 
 Poniżej fotorelacja z wyprawy.
 

@@ -4,4 +4,6 @@ date: "2019-08-26T22:12:03.284Z"
 description: "Witam wszystkich"
 ---
 
+<p  class="justify">
 Witam na moim blogu poświęconym wędrówkom górskim, zdjęciom pejzaży w czasie wypraw oraz moim pasjom: sztuce i informatyce.
+</p>

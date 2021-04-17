@@ -28,8 +28,8 @@ Niestety żaden z wierzchołków nie znajduje się na terenie Polski. Tylko na t
 </p>
 
 
-Oto lista szczytów Korony Tatr (oczywiście Turystycznej na którą prowadzą szlaki . W sumie 18 wierzchołków).<br />
-<span class="blue"><b>Kolorem niebieskim oznaczyłem zdobyte szczyty.</b></span>
+<p  class="justify">Oto lista szczytów Korony Tatr (oczywiście Turystycznej na którą prowadzą szlaki . W sumie 18 wierzchołków).<br />
+<span class="blue"><b>Kolorem niebieskim oznaczyłem zdobyte szczyty.</b></span></p>
 
 <ul>
 <li>Rysy 2503</li>
